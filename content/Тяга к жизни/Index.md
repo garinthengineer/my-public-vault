@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: Тяга к жизни
+  title: Осознанность
   workflow: Default Workflow
   sceneFolder: /
   scenes:
