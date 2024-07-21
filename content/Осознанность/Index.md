@@ -9,3 +9,4 @@ longform:
   sceneTemplate: Templates/An Article.md
   ignoredFiles: []
 ---
+[[7 столпов осознанности. Мнение кандидата наук орг. психологии]]
